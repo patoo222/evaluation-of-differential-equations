@@ -1,2 +1,2 @@
 # evaluation-of-differential-equations
-I created this template when I was asked to perform evaluations of differential equations. You can modify the sections as you wish for whatever purpose you deem appropriate.
+I originally created this template to evaluate differential equations. However, you are welcome to freely modify, reorganize, expand, or adapt its sections to better suit any purpose or project you consider appropriate.
